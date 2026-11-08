@@ -51,8 +51,8 @@ L'approche sémantique repère les profils pertinents même avec un vocabulaire 
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/<votre-utilisateur>/<votre-repo>.git
-cd <votre-repo>
+git clone https://github.com/iiyadh/CV-analyzer.git
+cd CV-analyzer
 
 # 2. (Recommandé) Créer un environnement virtuel
 python -m venv .venv
